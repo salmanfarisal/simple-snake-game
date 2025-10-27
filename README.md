@@ -16,8 +16,7 @@ snake-game/
 │── main.py         # Main game file
 │── README.md       # Project documentation
 │── LICENSE         # License information
-│── .gitignore      # Ignored files and folders for Git
-└── assets/         # (optional) Images or additional resources
+└── .gitignore      # Ignored files and folders for Git
 ```
 
 ## 🚀 How to Run
@@ -35,12 +34,6 @@ snake-game/
 3. Use the arrow keys to move the snake 🐍  
    Eat food to grow longer and increase your score.  
    Avoid hitting the walls or yourself!
-
-## 🖼️ Example
-Add a screenshot of the game (optional) in the `assets/` folder, e.g.:
-```
-assets/demo.png
-```
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
